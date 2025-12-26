@@ -192,4 +192,4 @@ This software is provided for educational and informational purposes. You're obv
 
 ---
 
-**Professional Trading Solution by King Maws** 
+**Professional Trading Solution by KingMaws** 
